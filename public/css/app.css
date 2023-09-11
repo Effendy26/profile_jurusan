@@ -1,0 +1,54 @@
+.navbar{
+    position: fixed;
+
+    width: 100%;
+  
+    padding: 20px 20px 20px;
+  
+    display: flex;
+  
+    justify-content: space-between;
+  
+    align-items: center;
+  
+    flex-wrap: wrap;
+  
+    transition: top 0.75s ease-in;
+  
+    background-color: #e8e8e8;
+}
+
+body {
+    font-family: 'Koh Santepheap', serif;
+    
+}
+
+ul li {
+    margin-left: 16px;
+}
+
+.welcome{
+    background-color: #A6B1E1;
+    min-height: 100vh ;
+}
+.teachers{
+    background-color: blue;
+    min-height: 100vh ;
+}
+.fasility{
+    background-color: #A6B1E1;
+    min-height: 100vh ;
+}
+.welcome{
+    background-color: #A6B1E1;
+    min-height: 100vh ;
+}
+.welcome{
+    background-color: #A6B1E1;
+    min-height: 100vh ;
+}
+.welcome{
+    background-color: #A6B1E1;
+    min-height: 100vh ;
+}
+
